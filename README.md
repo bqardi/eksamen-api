@@ -13,7 +13,7 @@ npm start
 ```
 
 ## Documentation
-https://eksamen-api.herokuapp.com/
+https://eksamen-api.herokuapp.com
 
 ### Predefined Users
 There are 10 predefined users in the API:
